@@ -1,1 +1,1 @@
-gunicorn app:app & python3 -m CuteBaccha
+gunicorn app:app & python3 -m hiCuteBaccha
