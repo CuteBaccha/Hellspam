@@ -1,7 +1,7 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy and Manisha",
-    "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
+    "name": "hellspam",
+    "description": "Spamming Bot Made By ansh and CuteBaccha",
+    "logo": "https://graph.org/file/482d89990dbcbb3f11d5d.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,16 +9,16 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBoy_OP",
-    "success_url": "https://t.me/LegendBoy_OP",
+    "repository": "https://github.com/CuteBaccha/hellspam",
+    "website": "https://t.me/Y_K_D_1",
+    "success_url": "https://t.me/Y_K_D_1",
     "env": {
         "API_HASH": {
-            "description": "Write API_HASH from my.telegram.org, Join Group https://t.me/LegendBot_Op, then check notes",
+            "description": "Write API_HASH from my.telegram.org, Join Group https://t.me/ISHQ00_I , then check notes",
             "value": ""
         },
         "APP_ID": {
-            "description": "Paste API ID from my.telegram.org, Join Group https://t.me/LegendBot_Op, then check notes",
+            "description": "Paste API ID from my.telegram.org, Join Group https://t.me/ISHQ00_I, then check notes",
             "value": ""
         },
         "ENV": {
@@ -81,7 +81,7 @@
         },
         "YOUR_NAME": {
             "description": "Your Name",
-            "value": "LegendBoy"
+            "value": "CuteBaccha"
             
         },
         "HEROKU_API_KEY": {
