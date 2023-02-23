@@ -1,6 +1,6 @@
 # BOTSPAM
 <p>
-<h2> This Is BOTSPAM Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a></h2>
+<h2> This Is BOTSPAM Of <a href="https://telegram.me/CuteBaccha">@I_LOVE_YOU_MY_HEARTBEET_XD</a></h2>
 </p>
 
 ## 👨‍💻 Commands 👨‍💻
@@ -42,6 +42,6 @@ Best Deploy On Scallingo
     
 </h3>
 
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/LEGEND-AI/BOTSPAM"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/CuteBaccha/Hellspam "> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
