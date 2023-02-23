@@ -1,13 +1,13 @@
 import glob
 from pathlib import Path
-from LegendGirl.utils import load_plugins
+from Hellspam .utils import load_plugins
 import logging
 from . import bot, bot2, bot3, bot5 , bot6, bot7, bot8, bot9, bot10
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-path = "LegendGirl/LegendBoy/*.py"
+path = "CuteBaccha/Hellspam /*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
@@ -15,8 +15,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Your Legend Spam Bot Has Been Deployed Successfully")
-print("Congratulations 😇 For Being A Part Of LegendBot \nJoin @LegendBot_OP For Any Help")
+print("Your hell Spam Bot Has Been Deployed Successfully")
+print("Congratulations 😇 For Being A Part Of Hellspam  \nJoin @I_LOVE_YOU_MY_HEARTBEET For Any Help")
 
 if __name__ == "__main__":
     bot.run_until_disconnected()
