@@ -1,1 +1,1 @@
-worker: python3 -m CuteBaccha
+worker: python3 -m LegendGirl
